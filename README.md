@@ -151,11 +151,11 @@ Install these libraries from the Arduino IDE Library Manager before uploading th
 - Add buzzer or relay output for over-temperature alarm.
 - Add battery supply and low-power mode for remote sensing nodes.
 
-## Resume-ready project description
+## Resume description
 
 **Wireless Temperature Monitoring System using Arduino and RF Communication**  
 Designed and developed a wireless temperature monitoring system using two Arduino UNO boards, a DS18B20 digital temperature sensor, 433 MHz RF transmitter/receiver modules, and a 16x2 I2C LCD. Implemented real-time wireless data transmission, live temperature display, sensor fault handling, and signal-loss indication using Embedded C / Arduino programming.
 
-## Short project description for resume or LinkedIn
+## one line project summary
 
-Built a real-time wireless temperature monitoring system using Arduino UNO, DS18B20, 433 MHz RF modules, and I2C LCD to measure, transmit, receive, and display temperature data continuously.
+Built a real-time wireless temperature monitoring system using Arduino UNO, DS18B20 sensor, RF modules, and I2C LCD for wireless data transmission and live temperature display.
