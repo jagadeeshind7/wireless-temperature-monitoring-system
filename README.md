@@ -174,6 +174,6 @@ Wokwi currently does not support 433 MHz RF transmitter and receiver modules dir
 **Wireless Temperature Monitoring System using Arduino and RF Communication**  
 Designed and developed a wireless temperature monitoring system using two Arduino UNO boards, a DS18B20 digital temperature sensor, 433 MHz RF transmitter/receiver modules, and a 16x2 I2C LCD. Implemented real-time wireless data transmission, live temperature display, sensor fault handling, and signal-loss indication using Embedded C / Arduino programming.
 
-## one line project summary
+## One line project summary
 
 Built a real-time wireless temperature monitoring system using Arduino UNO, DS18B20 sensor, RF modules, and I2C LCD for wireless data transmission and live temperature display.
